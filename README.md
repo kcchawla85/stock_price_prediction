@@ -1,12 +1,13 @@
 # stock_price_prediction
-#ABSTRACT
+# ABSTRACT
+
 The aim of this project is that we are designing a web-based application that will predict the prices of the stock and tell us which stocks are at all time high or all time low according to the various charts by analyzing them according to the previous trends. We are using the concept of machine learning by importing different types of modules and libraries for analyzing the chart and the prices. 
 We are adding this feature like if we want to know the current status like according to past years, months or days the live trend in their charts or prices we simply have to type the name of the stocks ; give the date from which we want to fetch the information and all the things like all the formats it will tell like 24H LOW-HIGH ,CHART TREND AND PRICES by analyzing the previous trends. We are making this web app using jupyter notebook and by importing libraries of python.
 
 
 Keywords: stock price prediction, jupyter notebook , python ,API (LINKAGE)
 
-#UNDERSTANDING PROBLEM STATEMENT
+# UNDERSTANDING PROBLEM STATEMENT
 
 We’ll dive into the implementation part of this Project soon, but first it’s important to establish what we’re aiming to solve. Broadly, stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis. 
 
@@ -35,11 +36,11 @@ Common aspects of Fundamental Research includes analyzing and capturing the foll
 
 • Various other Results published by the company: This is where the data scientist has to look into the Balance sheet and Income statement of the company and feed as much useful information to the model as possible allowing the machine learning model to make an informed decision regarding the price of the stock.
 
-#TECHSTACK USED
+# TECHSTACK USED
 1. Python
 2. Deployed over streamlit deployment services 
 
-#LIBRARIES USED
+# LIBRARIES USED
 1. NUMPY
 2. PANDAS
 3. MATPLOTLIB
@@ -47,6 +48,6 @@ Common aspects of Fundamental Research includes analyzing and capturing the foll
 5. TENSORFLOW
 6. SKLEARN
 
-#KINDLY CHECK THE MASTER BRANCH FOR SOURCE CODE
+# KINDLY CHECK THE MASTER BRANCH FOR SOURCE CODE
 
-#WEB APP LINK : https://kcchawla85-stock-price-prediction-app-awxwtq.streamlitapp.com/
+# WEB APP LINK : https://kcchawla85-stock-price-prediction-app-awxwtq.streamlitapp.com/
